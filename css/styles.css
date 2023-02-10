@@ -24,7 +24,6 @@ body {
 .profile {
   display: flex;
   flex-direction: column;
-  justify-items: center;
 }
 
 .tech-stack__list {
